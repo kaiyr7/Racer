@@ -8,10 +8,10 @@ run=True
 clock=pygame.time.Clock()
 x=400
 #loading all images
-background=pygame.image.load('lab8/Racer/background1.png').convert_alpha()
-car=pygame.image.load('lab8/Racer/car.png').convert_alpha()
-enemy=pygame.image.load('lab8/Racer/enemy.png').convert_alpha()
-coin=pygame.image.load('lab8/Racer/tenge.png').convert_alpha()
+background=pygame.image.load('Racer/background1.png').convert_alpha()
+car=pygame.image.load('Racer/car.png').convert_alpha()
+enemy=pygame.image.load('Racer/enemy.png').convert_alpha()
+coin=pygame.image.load('Racer/tenge.png').convert_alpha()
 
 #variables
 bg_y=0
